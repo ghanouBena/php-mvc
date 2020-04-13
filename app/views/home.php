@@ -1,0 +1,1 @@
+<h1><?= $data['name'].' '.$data['lname']; ?></h1>
