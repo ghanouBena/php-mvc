@@ -9,7 +9,9 @@ MVC is simple php mvc create for help any one to understand how to use PHP MVC a
 Follow this step to run this MVC
 1- move the folder of mvc to the document root where your web server is running
 
-2 - go to the browser and run the mvc
+2 - you can using the config.php to set your custom information
+
+3 - go to the browser and run the mvc
  ENJOY!!
 
  NOTE: you can using Virtual host if you want to used
